@@ -18,7 +18,8 @@
 #include <cstddef>
 #include <cstdint>
 #include <memory>
-
+#include <stdexcept>
+#include <string>
 namespace livegraph
 {
     class Graph;
